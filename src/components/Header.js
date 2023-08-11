@@ -18,7 +18,7 @@ function Header() {
                 <a key={index} href="#">{car}</a>
                 ))}
                 {/* <a href="#">Model S</a>
-                <a href="#">Model 3</a>
+                <a href="#">Model 34</a>
                 <a href="#">Model X</a>
                 <a href="#">Model Y</a> */}
             </Menu>
